@@ -1,7 +1,8 @@
 /*
- * CoinSpark 2.1 - Java library
+ * CoinSpark 2.1 - .NET C# library (derived from the CoinSpark 2.1 Java library)
  *
  * Copyright (c) Coin Sciences Ltd
+ * Modified work Copyright (c) Vincent M. Mele, nyseion.com
  * 
  * Permission is hereby granted, free of charge, to any person obtaining a copy
  * of this software and associated documentation files (the "Software"), to deal
