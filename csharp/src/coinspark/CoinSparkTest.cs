@@ -974,7 +974,7 @@ namespace coinspark
                                 {
                                     writeOutput((i > 0 ? "," : "") + (outputsDefault[i] ? "1" : "0"));
                                 }
-                                writeOutput(" # boolflags whether each output is in a default route\n\n");
+                                writeOutput(" # boolean flags whether each output is in a default route\n\n");
 
                                 for (int i = 0; i < inputCount; i++)
                                 {
